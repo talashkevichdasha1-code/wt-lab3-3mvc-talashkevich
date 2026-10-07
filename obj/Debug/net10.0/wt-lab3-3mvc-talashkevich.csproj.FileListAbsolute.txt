@@ -1,0 +1,14 @@
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\bin\Debug\net10.0\wt-lab3-3mvc-talashkevich.exe
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\bin\Debug\net10.0\wt-lab3-3mvc-talashkevich.deps.json
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\bin\Debug\net10.0\wt-lab3-3mvc-talashkevich.runtimeconfig.json
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\bin\Debug\net10.0\wt-lab3-3mvc-talashkevich.dll
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\bin\Debug\net10.0\wt-lab3-3mvc-talashkevich.pdb
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.AssemblyInfoInputs.cache
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.AssemblyInfo.cs
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.csproj.CoreCompileInputs.cache
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.dll
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\refint\wt-lab3-3mvc-talashkevich.dll
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.pdb
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\wt-lab3-3mvc-talashkevich.genruntimeconfig.cache
+D:\уник\WT\wt-lab3-1git-talashkevich\wt-lab3-3mvc-talashkevich\obj\Debug\net10.0\ref\wt-lab3-3mvc-talashkevich.dll
